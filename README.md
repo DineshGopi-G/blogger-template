@@ -9,12 +9,8 @@
   <img src="https://img.shields.io/badge/SEO-OPTIMIZED-EA580C?style=for-the-badge" alt="SEO Optimized"/>
   <img src="https://img.shields.io/badge/PLATFORM-BLOGGER-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"/>
 </p>
-
-<h2 align="center">📖 𝐀𝐁𝐎𝐔𝐓</h2>
-
-
-
-<p align="justify" style="font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 1.9;">
+<br
+<p align="justify">
   Your blog design is the first thing visitors notice when they open your website.
   This <b>Blogger Template</b> offers a clean and simple design that is easy to customize.
   Whether you are a <b>blogger</b>, <b>developer</b>, <b>student</b>, or <b>content creator</b>,
@@ -22,21 +18,32 @@
   Welcome to <b>tedMXZ</b> — your place for coding projects, free source code, and hands-on programming tutorials.
 </p>
 
+<br>
 
-<table align="center">
+
+<table align="center" >
   <tr>
-    <td>➜ A clean, professional look that keeps your content front and center</td>
+    <td>➜</td>
+    <td>A clean, professional look that keeps your content front and center</td>
   </tr>
+  <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td>➜ A layout that adapts nicely to phones, tablets and desktops</td>
+    <td>➜</td>
+    <td>A layout that adapts nicely to phones, tablets and desktops</td>
   </tr>
+  <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td>➜ SEO-friendly markup, so search engines can find your posts</td>
+    <td>➜</td>
+    <td>SEO-friendly markup, so search engines can understand your posts</td>
   </tr>
+  <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td>➜ Easy customization, with no coding headaches</td>
+    <td>➜</td>
+    <td>Easy customization, with no coding headaches</td>
   </tr>
 </table>
+
+
 
 <br>
 
@@ -142,7 +149,7 @@
    ```
    git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
    ```
-
+  
 2. Open your **Blogger Dashboard** and go to **Theme**
 
 3. Click the arrow next to **Customize** and choose **Backup / Restore**
