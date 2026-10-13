@@ -1,3 +1,4 @@
+
 <h1 align="center">𝐁𝐥𝐨𝐠𝐠𝐞𝐫-𝐓𝐞𝐦𝐩𝐥𝐚𝐭𝐞</h1>
 
 <p align="center"><b>A clean, fast and responsive Blogger template built for coders, creators and students.</b></p>
@@ -9,36 +10,18 @@
   <img src="https://img.shields.io/badge/PLATFORM-BLOGGER-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=flat&logo=github" alt="Stars"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/network/members">
-    <img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=flat&logo=github" alt="Forks"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="tedmxz.blogspot.com_.png" alt="Blogger Template Preview" width="800"/>
-</p>
-
-<br>
-
----
-
 <h2 align="center">📖 𝐀𝐁𝐎𝐔𝐓</h2>
 
-<p align="center">
-Your blog design is the first thing visitors notice when they open your website.<br>
-This <b>Blogger Template</b> offers a clean and simple design that is easy to customize.
+
+
+<p align="justify" style="font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 1.9;">
+  Your blog design is the first thing visitors notice when they open your website.
+  This <b>Blogger Template</b> offers a clean and simple design that is easy to customize.
+  Whether you are a <b>blogger</b>, <b>developer</b>, <b>student</b>, or <b>content creator</b>,
+  this template helps you build a professional-looking blog that suits your needs.
+  Welcome to <b>tedMXZ</b> — your place for coding projects, free source code, and hands-on programming tutorials.
 </p>
 
-<p align="center">
-Whether you are a <b>blogger</b>, <b>developer</b>, <b>student</b>, or <b>content creator</b>,<br>
-this template helps you build a professional-looking blog that suits your needs.
-</p>
-
-<p align="center"><i>Welcome to tedMXZ — your place for coding projects, free source code and hands-on programming tutorials.</i></p>
 
 <table align="center">
   <tr>
@@ -54,6 +37,16 @@ this template helps you build a professional-looking blog that suits your needs.
     <td>➜ Easy customization, with no coding headaches</td>
   </tr>
 </table>
+
+<br>
+
+---
+
+
+<p align="center">
+  <img src="tedmxz.blogspot.com_.png" alt="Blogger Template Preview" width="800"/>
+</p>
+
 
 ---
 
