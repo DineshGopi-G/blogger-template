@@ -15,7 +15,7 @@
   This <b>Blogger Template</b> offers a clean and simple design that is easy to customize.
   Whether you are a <b>blogger</b>, <b>developer</b>, <b>student</b>, or <b>content creator</b>,
   this template helps you build a professional-looking blog that suits your needs.
-  Welcome to <b>tedMXZ</b> — your place for coding projects, free source code, and hands-on programming tutorials.
+  
 </p>
 
 <br>
