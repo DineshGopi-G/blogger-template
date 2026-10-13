@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="Source/preview.png" alt="Blogger Template Preview" width="800"/>
+  <img src="tedmxz.blogspot.com_.png" alt="Blogger Template Preview" width="800"/>
 </p>
 
 <br>
